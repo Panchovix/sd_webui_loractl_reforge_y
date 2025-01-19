@@ -19,7 +19,7 @@ Quick features:
 In the Automatic1111 UI, go to Extensions, then "Install from URL" and enter
 
 ```
-https://github.com/cheald/sd-webui-loractl
+https://github.com/Panchovix/sd_webui_loractl_reforge_y
 ```
 
 Then go to the "Installed" tab and click "Apply and Restart UI". You don't have to enable it; the extension is "always on". If you don't use the extended syntax, then the behavior is identical to the stock behavior.
